@@ -1,0 +1,51 @@
+P{
+    background-color: rgb(235, 235, 235);
+}
+h1{
+    background-color: rgb(219, 187, 187);
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+ul{
+    margin-top:0px;
+    margin-left:0px;
+    padding-left: 0%;
+    
+}
+li{
+    list-style-type: none;
+    float: left;
+    display: block;
+    color: black;
+    
+    padding: 0px;
+    background-color: aqua;
+}
+li a{
+        display: block;
+        padding: 10px;
+        margin: 0px;
+        background-color: crimson;
+        font-size:150%;
+        
+    }
+li a:hover
+{
+    background-color: blueviolet;
+}
+li a{text-decoration:none;}
+.dao{
+  
+    background-color: brown;
+    width: auto;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+	width:100%;
+    margin:auto;
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+}
